@@ -9,7 +9,7 @@ Azamatov Abylaikhan
 #include <vector>
 #include <stdio.h>
 #include <cstring>
-#define _CRT_SECURE_NO_WARNINGS // для возможности использования scanf
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h> 
 using namespace std;
