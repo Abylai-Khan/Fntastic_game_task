@@ -1,6 +1,6 @@
 "# gamedev_test" 
 Azamatov Abylaikhan
-<h1>Task 1</h1>
+<h1>Task 1
 
 #include <iostream>
 #include <string>
@@ -50,3 +50,4 @@ int main()
  
     std::cout<<s<<std::endl;
 }
+</h1>
